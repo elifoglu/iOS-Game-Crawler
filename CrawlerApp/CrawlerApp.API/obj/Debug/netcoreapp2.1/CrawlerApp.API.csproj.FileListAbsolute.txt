@@ -1,0 +1,28 @@
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.deps.json
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.runtimeconfig.json
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.runtimeconfig.dev.json
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.dll
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.pdb
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.RazorAssemblyInfo.cache
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.RazorAssemblyInfo.cs
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.AssemblyInfo.cs
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.dll
+C:\Users\Mert\Desktop\workspaces\asp.net core\CrawlerApp\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.pdb
+C:\Users\Mert\Desktop\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.deps.json
+C:\Users\Mert\Desktop\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.runtimeconfig.json
+C:\Users\Mert\Desktop\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.runtimeconfig.dev.json
+C:\Users\Mert\Desktop\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.dll
+C:\Users\Mert\Desktop\CrawlerApp.API\bin\Debug\netcoreapp2.1\CrawlerApp.API.pdb
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.RazorAssemblyInfo.cache
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.RazorAssemblyInfo.cs
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.AssemblyInfo.cs
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.dll
+C:\Users\Mert\Desktop\CrawlerApp.API\obj\Debug\netcoreapp2.1\CrawlerApp.API.pdb
